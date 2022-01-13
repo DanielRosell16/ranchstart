@@ -1,0 +1,23 @@
+@media only screen and (min-width: 1028px) {
+
+
+    nav ul {padding-left: 2%;}
+
+    
+    nav ul li {
+        flex-basis: auto;
+        float: left;
+    }
+    
+    nav a {padding: .5rem 1rem}
+ 
+    main figure {width: 31%}
+    
+    div.seperation {column-count: 3;}
+
+} 
+
+
+
+
+/* end of media query */
